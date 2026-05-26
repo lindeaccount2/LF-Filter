@@ -1,4 +1,4 @@
-# FD-Filter
+# LF-Filter
 
 LF-Filter is a compact data structure for Intra-Flow Packet Delay Monitoring.
 
