@@ -1,14 +1,10 @@
 # FD-Filter
 
-FD-Filter is a compact data structure for Intra-Flow Packet Delay Monitoring.
+LF-Filter is a compact data structure for Intra-Flow Packet Delay Monitoring.
 
+We test the accuracy of LF-Filter with the code in `src/sketch/LFFilter.hh`.
 
-
-We test the accuracy of FD-Filter with the code in `src/sketch/FDFilter.hh` and `src/sketch/MergeableFDFilter.hh`.
-
-The Counter Combination optimization is implemented in the files starting with 'Opt'.
-
-The Lazy Aging optimization is implemented in the files starting with 'GAging'.
+The MAVI dataset used in the experiment can be downloaded from the following link: https://mawi.wide.ad.jp/mawi/
 
 
 
