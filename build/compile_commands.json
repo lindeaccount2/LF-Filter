@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/lin/FD-Filter-main_bak/LF-Filter_OpenSource/build",
+  "command": "/usr/bin/c++  -I/home/lin/FD-Filter-main_bak/LF-Filter_OpenSource/src -std=gnu++14 -o CMakeFiles/main.dir/src/main.cc.o -c /home/lin/FD-Filter-main_bak/LF-Filter_OpenSource/src/main.cc",
+  "file": "/home/lin/FD-Filter-main_bak/LF-Filter_OpenSource/src/main.cc",
+  "output": "CMakeFiles/main.dir/src/main.cc.o"
+},
+{
+  "directory": "/home/lin/FD-Filter-main_bak/LF-Filter_OpenSource/build",
+  "command": "/usr/bin/c++  -I/home/lin/FD-Filter-main_bak/LF-Filter_OpenSource/src -std=gnu++14 -o CMakeFiles/main.dir/src/common/util.cc.o -c /home/lin/FD-Filter-main_bak/LF-Filter_OpenSource/src/common/util.cc",
+  "file": "/home/lin/FD-Filter-main_bak/LF-Filter_OpenSource/src/common/util.cc",
+  "output": "CMakeFiles/main.dir/src/common/util.cc.o"
+}
+]
